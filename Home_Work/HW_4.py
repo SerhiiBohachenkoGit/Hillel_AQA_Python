@@ -42,7 +42,7 @@ from math import sqrt
 Px = int(input("Введіть Px: "))  # зчитування значення від користувача та конвертація у число (int)
 Py = int(input("Введіть Py: "))
 Cx = int(input("Введіть Сx: "))
-Cy = int(input("Введіть Сн: "))
+Cy = int(input("Введіть Сy: "))
 r1 = int(input("Введіть r1: "))
 r2 = int(input("Введіть r2: "))
 
