@@ -18,6 +18,5 @@ def main():
     print(f"Ratings: {data.get('result').get('ratings')}")  # відобразити тільки ratings зі словника
 
 
-
 if __name__ == "__main__":
     main()
